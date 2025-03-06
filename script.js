@@ -5,14 +5,14 @@ function generateCompliment() {
 
     // List of compliments
     const compliments = [
-        "You are an amazing problem solver!",
-        "Your creativity knows no bounds!",
-        "You bring out the best in others!",
-        "You have a fantastic sense of humor!",
-        "Your positivity is contagious!",
-        "You are a natural leader!",
-        "You make learning fun and exciting!",
-        "You have an incredible attention to detail!"
+        "you are an amazing problem solver!",
+        "your creativity knows no bounds!",
+        "you bring out the best in others!",
+        "you have a fantastic sense of humor!",
+        "your positivity is contagious!",
+        "you are a natural leader!",
+        "you make learning fun and exciting!",
+        "you have an incredible attention to detail!"
     ];
 
     // Select a random compliment
